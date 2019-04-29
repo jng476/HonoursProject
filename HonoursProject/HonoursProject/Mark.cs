@@ -678,7 +678,7 @@ namespace HonoursProject
                 return;
             }
 
-            AddMark m = new AddMark(filePath2.Text); //Creates Add Mark Windows Forum
+            AddMark m = new AddMark(filePath2.Text, markText.Text); //Creates Add Mark Windows Forum
 
             //Opens Add Mark Windows forum
             if(m.ShowDialog() == DialogResult.OK)

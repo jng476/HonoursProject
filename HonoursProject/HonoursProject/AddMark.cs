@@ -117,10 +117,13 @@ namespace HonoursProject
         }
 
         /* Initializes Windows Forum */
-        public AddMark(string studentName)
+        public AddMark(string studentName, string studentMark)
         {
             InitializeComponent();
             name.Text = studentName.Split('\\').Last(); //Splits Files Path to Get File Name
+            name.Text = (name.Text).Replace(".xml", ""); //Just get Name
+            string[] holdMark = studentMark.Split('%', ' '); //Splits it to Grade and % Mark
+            mark.Text = holdMark[1]; // %Mark
         }
         /* When Key is Pressed in Mark Textbox */
         private void mark_KeyPress(object sender, KeyPressEventArgs e)
@@ -152,6 +155,11 @@ namespace HonoursProject
         }
 
         private void AddMark_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }
