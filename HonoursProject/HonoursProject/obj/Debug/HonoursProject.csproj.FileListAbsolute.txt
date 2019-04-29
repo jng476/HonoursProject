@@ -1,0 +1,14 @@
+C:\Users\Joshn\source\repos\HonoursProject\HonoursProject\bin\Debug\HonoursProject.exe.config
+C:\Users\Joshn\source\repos\HonoursProject\HonoursProject\bin\Debug\HonoursProject.exe
+C:\Users\Joshn\source\repos\HonoursProject\HonoursProject\bin\Debug\HonoursProject.pdb
+C:\Users\Joshn\source\repos\HonoursProject\HonoursProject\obj\Debug\HonoursProject.csprojAssemblyReference.cache
+C:\Users\Joshn\source\repos\HonoursProject\HonoursProject\obj\Debug\HonoursProject.Menu.resources
+C:\Users\Joshn\source\repos\HonoursProject\HonoursProject\obj\Debug\HonoursProject.Properties.Resources.resources
+C:\Users\Joshn\source\repos\HonoursProject\HonoursProject\obj\Debug\HonoursProject.csproj.GenerateResource.cache
+C:\Users\Joshn\source\repos\HonoursProject\HonoursProject\obj\Debug\HonoursProject.csproj.CoreCompileInputs.cache
+C:\Users\Joshn\source\repos\HonoursProject\HonoursProject\obj\Debug\HonoursProject.exe
+C:\Users\Joshn\source\repos\HonoursProject\HonoursProject\obj\Debug\HonoursProject.pdb
+C:\Users\Joshn\source\repos\HonoursProject\HonoursProject\obj\Debug\HonoursProject.Upload.resources
+C:\Users\Joshn\source\repos\HonoursProject\HonoursProject\obj\Debug\HonoursProject.Mark.resources
+C:\Users\Joshn\source\repos\HonoursProject\HonoursProject\obj\Debug\HonoursProject.AddMark.resources
+C:\Users\Joshn\source\repos\HonoursProject\HonoursProject\obj\Debug\HonoursProject.AddExtraName.resources

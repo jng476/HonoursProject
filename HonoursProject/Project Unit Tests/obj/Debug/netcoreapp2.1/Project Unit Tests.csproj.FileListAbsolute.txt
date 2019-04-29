@@ -1,0 +1,14 @@
+C:\Users\Joshn\source\repos\HonoursProject\Project Unit Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Joshn\source\repos\HonoursProject\Project Unit Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Joshn\source\repos\HonoursProject\Project Unit Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Joshn\source\repos\HonoursProject\Project Unit Tests\bin\Debug\netcoreapp2.1\Project Unit Tests.deps.json
+C:\Users\Joshn\source\repos\HonoursProject\Project Unit Tests\bin\Debug\netcoreapp2.1\Project Unit Tests.runtimeconfig.json
+C:\Users\Joshn\source\repos\HonoursProject\Project Unit Tests\bin\Debug\netcoreapp2.1\Project Unit Tests.runtimeconfig.dev.json
+C:\Users\Joshn\source\repos\HonoursProject\Project Unit Tests\bin\Debug\netcoreapp2.1\Project Unit Tests.dll
+C:\Users\Joshn\source\repos\HonoursProject\Project Unit Tests\bin\Debug\netcoreapp2.1\Project Unit Tests.pdb
+C:\Users\Joshn\source\repos\HonoursProject\Project Unit Tests\obj\Debug\netcoreapp2.1\Project Unit Tests.csprojAssemblyReference.cache
+C:\Users\Joshn\source\repos\HonoursProject\Project Unit Tests\obj\Debug\netcoreapp2.1\Project Unit Tests.csproj.CoreCompileInputs.cache
+C:\Users\Joshn\source\repos\HonoursProject\Project Unit Tests\obj\Debug\netcoreapp2.1\Project Unit Tests.AssemblyInfoInputs.cache
+C:\Users\Joshn\source\repos\HonoursProject\Project Unit Tests\obj\Debug\netcoreapp2.1\Project Unit Tests.AssemblyInfo.cs
+C:\Users\Joshn\source\repos\HonoursProject\Project Unit Tests\obj\Debug\netcoreapp2.1\Project Unit Tests.dll
+C:\Users\Joshn\source\repos\HonoursProject\Project Unit Tests\obj\Debug\netcoreapp2.1\Project Unit Tests.pdb
